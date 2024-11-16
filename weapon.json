@@ -1,0 +1,11 @@
+{
+  "name": "Gold M4A1",
+  "description": "A unique, gold-plated M4A1 NFT",
+  "image": "https://link-to-your-image.com/image.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}
